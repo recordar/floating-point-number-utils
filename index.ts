@@ -1,12 +1,12 @@
-const multiply = (a: number, b: number): number => {
+const multiply = (a: number, b: number) => {
   return a * b;
 };
 
-const divide = (a: number, b: number): number => {
+const divide = (a: number, b: number) => {
   return a / b;
 };
 
-const add = (a: number, b: number): number => {
+const add = (a: number, b: number) => {
   return a + b;
 };
 
