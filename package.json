@@ -13,10 +13,13 @@
   "devDependencies": {
     "@types/big.js": "^6.2.2",
     "@types/node": "^24.1.0",
+    "standard-version": "^9.5.0",
     "typescript": "^5.8.3"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "release": "standard-version",
+    "publish": "git commit -m 'chore: release' && pnpm run release && pnpm publish"
   },
   "dependencies": {
     "big.js": "^7.0.1"
