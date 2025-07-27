@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/recordar/floating-point-number-utils/compare/v0.1.1...v0.1.2) (2025-07-27)
+
+
+### Bug Fixes
+
+* publish 명령어 수정 ([80115f3](https://github.com/recordar/floating-point-number-utils/commit/80115f33965e993cf926b6a7a826597c25182b5a))
+* rollback ([73efc61](https://github.com/recordar/floating-point-number-utils/commit/73efc61b2c4ccfbb0db5568b236f674a9ba9ddf2))
+
 ### 0.1.1 (2025-07-27)
 
 
