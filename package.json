@@ -19,7 +19,7 @@
   "scripts": {
     "build": "tsc",
     "release": "standard-version",
-    "publish": "git add . &&git commit -m 'chore: release' && pnpm run release && pnpm publish"
+    "publish": "git add . &&git commit -m 'chore: release' && pnpm run release && pnpm publish && git push"
   },
   "dependencies": {
     "big.js": "^7.0.1"
