@@ -1,9 +1,10 @@
 {
   "name": "floating-point-number-utils-2",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "type": "module",
+  "packageManager": "pnpm@8.15.5",
   "exports": {
     ".": {
       "import": "./dist/index.js"
@@ -11,7 +12,7 @@
   },
   "devDependencies": {
     "@types/big.js": "^6.2.2",
-    "@types/node": "^24.0.10",
+    "@types/node": "^24.1.0",
     "typescript": "^5.8.3"
   },
   "scripts": {
